@@ -1,37 +1,11 @@
 ## Observatorio Sindical
 
-You can use the [editor on GitHub](https://github.com/ObservatorioSindical/ObservatorioSindical.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Sindicatos activos a nivel nacional (01 diciembre 2020): [**12.078**](https://github.com/ObservatorioSindical/ventanilla_DT/raw/main/INPUT/base%20anual%20sindicatos%20anidada.xlsx)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Socios y socias afiliados a sindicatos activos a nivel nacional (01 diciembre 2020): [**1.223.338**](https://github.com/ObservatorioSindical/ventanilla_DT/raw/main/INPUT/base%20anual%20sindicatos%20anidada.xlsx)
 
-### Markdown
+Tasa de sindicalización sobre total ocupados (Trimestre ASO 2020): **15,95%**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tasa de sindicalización sobre asalariados sector privado (Trimestre ASO 2020, solo socios/as de sindicatos de empresa o establecimiento): **18,99%**
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ObservatorioSindical/ObservatorioSindical.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Huelgas activas al 11 diciembre 2020: [**12**](https://www.dt.gob.cl/portal/1629/w3-propertyvalue-28223.html)
