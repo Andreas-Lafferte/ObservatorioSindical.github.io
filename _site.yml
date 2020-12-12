@@ -1,0 +1,21 @@
+
+name: "Observatorio sindical"
+output_dir: "."
+navbar:
+  title: "Observatorio sindical"
+  right:
+  - text: "Sindicatos"
+    href: sindicatos.html
+  - text: "Huelgas"
+    href: huelgas.html
+  - text: "Negociaciones colectivas"
+    href: nc.html
+  - text: "Equipo"
+    href: equipo.html
+  - icon: fa-github fa-lg
+    href: https://github.com/ObservatorioSindical
+
+output:
+  html_document:
+    theme: yeti
+    highlight: pygments
